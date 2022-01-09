@@ -1,1 +1,1 @@
-//Here I will create a liste of simple algorithms that I will have in this repository
+//Here I will create a list of simple algorithms that I will have in this repository 
